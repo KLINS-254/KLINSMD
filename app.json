@@ -32,12 +32,12 @@
     },
     "STICKER_PACK_NAME": {
       "description": "Sticker pack name",
-      "value": "Kango",
+      "value": "KLINSMD",
       "required": false
     },
     "STICKER_AUTHOR_NAME": {
       "description": "Sticker author name",
-      "value": "Kango",
+      "value": "KLINSMD",
       "required": false
     },
     "HEROKU_API_KEY": {
