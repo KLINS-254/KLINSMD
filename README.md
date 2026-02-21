@@ -1,4 +1,4 @@
-<h1 align="center"> 𝐂𝐘𝐏𝐇𝐄𝐑 𝐗 </h1>
+<h1 align="center"> KLINS MD </h1>
 
 <p align="center">
   <a href="https://github.com/KLINS-254/KLINSMD">
@@ -9,7 +9,7 @@
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Dark-Xploit"><img title="Author" src="https://img.shields.io/badge/CypherX-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/KLINS-254/KLINSMD"><img title="Author" src="https://img.shields.io/badge/KLINS-MD-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 
 <p align="center">
