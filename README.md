@@ -9,7 +9,7 @@
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/KLINS-254/KLINSMD"><img title="Author" src="https://img.shields.io/badge/KLINS-MD-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/KLINS-254/KLINSMD"><img title="Author" src="https://img.shields.io/badge/KLINSMD-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 
 <p align="center">
