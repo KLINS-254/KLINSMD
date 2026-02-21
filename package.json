@@ -1,7 +1,7 @@
 {
-  "name": "CypherX",
+  "name": "KLINS-MD",
   "version": "1.7.5",
-  "description": "The best Whatsapp bot",
+  "description": "The qualified Whatsapp bot",
   "main": "index.js",
   "engines": {
       "node": ">= 20.x",
@@ -12,9 +12,9 @@
     "dev": "nodemon index.js", 
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Tylor",
+  "author": "Ticoh911",
   "dependencies": {
-        "@whiskeysockets/baileys": "https://github.com/Dark-Xploit/Baileys/archive/refs/tags/v2.0.5.tar.gz",
+        "@whiskeysockets/baileys": "https://github.com/KLINS-254/KLINSMD.git",
         "@rodrigogs/baileys-store" : "^1.0.1",
         "adm-zip": "^0.5.16",
         "better-sqlite3": "^11.10.0",
