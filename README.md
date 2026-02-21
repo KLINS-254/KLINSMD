@@ -1,8 +1,8 @@
-<h1 align="center"> KLINS MD </h1>
+<h1 align="center"> KLINS-MD </h1>
 
 <p align="center">
   <a href="https://github.com/KLINS-254/KLINSMD">
-    <img alt="CypherX docs" height="350" src="https://i.ibb.co/qGF8Q0r/KLINSMD.jpg">
+    <img alt="KLINS-MD docs" height="350" src="https://i.ibb.co/qGF8Q0r/KLINSMD.jpg">
   </a>
 </p>
     
