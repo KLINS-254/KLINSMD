@@ -1,9 +1,9 @@
 {
-  "name": "CypherX",
-  "description": "CypherX, your friendly assistant!",
+  "name": "KLINS-MD",
+  "description": "KLINSMD, your friendly assistant!",
   "logo": "https://ibb.co/yTBCjhQ",
   "keywords": [],
-  "repository": "https://github.com/Dark-Xploit/CypherX",
+  "repository": "https://github.com/KLINS-254/KLINSMD",
   "stack": "container",
   "addons": [
     {
@@ -15,7 +15,7 @@
   },
 "env": {
   "SESSION_ID": {
-    "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
+    "description": "Must begin with 'KLINS-MD:~'.",
     "value": "",
     "required": false
   }
