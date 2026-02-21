@@ -2,11 +2,11 @@
 
 // @project_name : KLINS-MD 
 // @author : Ticoh 911 
-// @telegram : http://t.me/official_kango
+// @telegram : http://t.me/ticoh911 
 // @github : KLINS-254
 // @whatsapp : +254762573604
 
-//----------------------[ KANGO-XMD ]----------------------//
+//----------------------[ KLINS-MD ]----------------------//
 
 const fs = require('fs')
 const { color } = require('./KLINSMD/color')
@@ -20,7 +20,7 @@ global.SESSION_ID = process.env.SESSION_ID || ''
 
 //--------------------[ BOT NAME ]----------------------//
 
-global.botname = process.env.BOT_NAME || 'KLINS-MD 
+global.botname = process.env.BOT_NAME || 'KLINS-MD' 
 
 //-----------------[ OWNER NUMBER ]------------------//
 
@@ -62,7 +62,7 @@ global.plink = process.env.PLINK || "https://youtube.com/@ticoh911"
 
 //------------------[ WATERMARK ]--------------------//
 
-global.wm = process.env.GL_WM || "> ©KLINS-MD"
+global.wm = process.env.GL_WM || "> © KLINS-MD"
 
 //---------------------[ REPLIES ]-----------------------//
 
